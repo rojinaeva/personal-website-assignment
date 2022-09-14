@@ -1,0 +1,141 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+h3{
+    color:gray;
+}
+
+.explore-profile {
+    display: flex;
+    margin-left: 5%;
+
+}
+
+.mission-container {
+    margin-left: 5%;
+}
+
+.mission-profile {
+    display: flex;
+    padding: 3% 5%;
+ 
+    border-radius: 8px;
+
+}
+
+.develop-profile {
+    display: flex;
+    margin-left: 5%;
+    padding-right: 5%;
+
+
+}
+
+.develop-width {
+    width: 50%;
+    padding: 5%;
+    padding-right: 5%;
+
+}
+
+.develop-width img {
+    width: 80%;
+    background-image: url('images/shapes/shape-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.global-profile{
+    display: flex;
+    margin-left: 5%;
+    padding-right: 5%;
+
+
+}
+.global-width{
+    width: 40%;
+    padding: 5%;
+    padding-right: 5%;
+}
+.global-width img{
+    width:80%;
+}
+
+
+.half-width {
+
+    width: 40%;
+    padding: 5%;
+    padding-right: 5%;
+}
+
+.three-width {
+    width: 28%;
+    padding-left: 5px;
+    border-radius: 10px;
+    padding: 30px 20px;
+}
+
+.box1 {
+    background-color: #5294ce;
+    margin-right: 10px;
+
+}
+
+.box2 {
+    background-color: #5cff67;
+    margin-right: 10px;
+}
+
+.box3 {
+    background-color: #ffc65c;
+}
+
+.three-width img {
+    width: 60%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+
+
+.orange-color {
+    color: orange;
+
+}
+
+.heading-border {
+    border-left: 5px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice: 1;
+    font-size: 25px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#5CB3FF, Silver);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.second-section {
+    text-align: center;
+    font-weight: 700;
+}
+footer{
+    text-align: center;
+    background-color: rgb(31, 10, 10);
+    color:white;
+    padding-bottom:30px;
+    padding-top:30px;
+    
+}
